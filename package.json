@@ -1,0 +1,23 @@
+{
+  "name": "@katsstuff/bun-compile-ts",
+  "version": "1.0.0",
+  "description": "(Bun.js only) A tiny library to compile a TypeScript file to a directory.",
+  "module": "main.ts",
+  "type": "module",
+  "author": "katsstuff",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katsstuff/bun-compile-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/katsstuff/bun-compile-ts/issues"
+  },
+  "homepage": "https://github.com/katsstuff/bun-compile-ts#readme"
+}
