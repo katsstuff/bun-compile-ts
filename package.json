@@ -1,6 +1,6 @@
 {
   "name": "@katsstuff/bun-compile-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "(Bun.js only) A tiny library to compile a TypeScript file to a directory.",
   "module": "main.ts",
   "type": "module",
